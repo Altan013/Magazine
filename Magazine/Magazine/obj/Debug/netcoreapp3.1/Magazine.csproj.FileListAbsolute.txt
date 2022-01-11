@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.exe
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.deps.json
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.runtimeconfig.json
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.dll
+C:\Users\lenovo\source\repos\Magazine\Magazine\bin\Debug\netcoreapp3.1\Magazine.pdb
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.dll
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.pdb
+C:\Users\lenovo\source\repos\Magazine\Magazine\obj\Debug\netcoreapp3.1\Magazine.genruntimeconfig.cache
